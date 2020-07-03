@@ -1,0 +1,21 @@
+Altium Designer Pick and Place Locations
+H:\Projects\PCB Design\RUMBA TFT Adapter\Source\Outputs\RUMBA_TFT_v1_0B_PickPlace.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/07/20
+Time:       21:58
+Revision:   86c4bd7f7f0c5c3d100716f97946e8251f7cf399
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"P2","Header 2X4","TopLayer","HDR2X4-HEADER_FEMALE_-_SHROUDED","9.1440","13.7160","360","Header, 4-Pin, Dual row, Shrouded"
+"R4","Resistor","TopLayer","RES_1608-0603","3.8100","7.6200","270","RES SMD 1K OHM 1% 1/10W 0603"
+"R3","Resistor","TopLayer","RES_1608-0603","9.9060","7.6200","270","RES SMD 1K OHM 1% 1/10W 0603"
+"LD2","","TopLayer","LED_1608-0603","5.8420","7.6200","270","LED YELLOW CLEAR CHIP SMD 0603"
+"LD1","","TopLayer","LED_1608-0603","11.9380","7.6200","270","LED YELLOW CLEAR CHIP SMD 0603"
+"R2","Resistor","TopLayer","RES_1608-0603","1.7780","7.6200","270","RES SMD 100 OHM 1% 1/10W 0603"
+"R1","Resistor","TopLayer","RES_1608-0603","7.8740","7.6200","270","RES SMD 100 OHM 1% 1/10W 0603"
+"P1","Header 2X7","BottomLayer","HDR2X7-HEADER_FEMALE","9.1440","2.7940","180","Header, 7-Pin, Dual row, Female"
